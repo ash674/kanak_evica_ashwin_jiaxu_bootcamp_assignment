@@ -1,4 +1,6 @@
+<p>
 <img src="images/banner_banner.jpg" width="100% style="max-width:100%;">
+</p>
 
 <h1 text-align="centre">Epiphany</h1>
 We are a start-up marketing studio that beleive in one main ingredient: to transalate customer visions into pixel-perfect applications. We are a team of talented individuals specializing in front-end development. 
